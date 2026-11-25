@@ -1,0 +1,6 @@
+{
+  "name": "Lumi AI Assistant Girl",
+  "description": "Voice-controlled AI Assistant Girl to open apps, close background tasks, and keep your desktop organized.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
